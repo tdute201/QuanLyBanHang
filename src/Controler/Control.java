@@ -10,5 +10,5 @@ package Controler;
  * @author thien
  */
 public class Control {
-    
+    String a;
 }
