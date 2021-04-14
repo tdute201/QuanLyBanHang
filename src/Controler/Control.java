@@ -10,5 +10,6 @@ package Controler;
  * @author thien
  */
 public class Control {
-    git string b;
+    String a;
+    String bString
 }
