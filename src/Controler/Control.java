@@ -11,5 +11,5 @@ package Controler;
  */
 public class Control {
     String a;
-    String bString;
+    String bString
 }
