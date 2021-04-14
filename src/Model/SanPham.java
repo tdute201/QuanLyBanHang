@@ -10,5 +10,5 @@ package Model;
  * @author thien
  */
 public class SanPham {
-    
+    int a;
 }
